@@ -6,6 +6,12 @@
 
 This project examines the temporary increase in demand for new $2 notes during Lunar New Year. It proposes an Excel forecasting model and dashboard for estimating demand and exploring the cost of excess issuance, storage, replacement, and disposal.
 
+## Dashboard preview
+
+![Angbao trends dashboard from the macro-enabled workbook](./assets/project-preview.png)
+
+The preview shows the workbook's stored 2022 scenario. It was rendered without executing the workbook's macros.
+
 ## Repository contents
 
 | Path | Purpose |
