@@ -10,18 +10,18 @@ This project examines the temporary increase in demand for new $2 notes during L
 
 | Path | Purpose |
 | --- | --- |
-| `Proto.xlsm` | Macro-enabled Excel model and interactive dashboard. |
-| `Report.pdf` | Project report, assumptions, methodology, and findings. |
+| [`Proto.xlsm`](./Proto.xlsm) | Macro-enabled Excel model and interactive dashboard. |
+| [`Report.pdf`](./Report.pdf) | Project report, assumptions, methodology, and findings. |
 
 ## Using the workbook
 
-Instructions are embedded in `Proto.xlsm`. Open the file in a desktop version of Microsoft Excel that supports macros. Review the workbook and its macro security prompt before enabling content, and work from a copy if you want to preserve the original artifact.
+Instructions are embedded in [`Proto.xlsm`](./Proto.xlsm). Open the file in a desktop version of Microsoft Excel that supports macros. Review the workbook and its macro security prompt before enabling content, and work from a copy if you want to preserve the original artifact.
 
 The workbook has not been validated against current currency-demand patterns, MAS processes, storage constraints, or current Excel versions. Treat its outputs as an academic modelling exercise rather than operational guidance.
 
 ## Data and assumptions
 
-Consult `Report.pdf` for the data sources, definitions, assumptions, and model interpretation. Any reuse should verify that the source data may be redistributed and that the assumptions remain appropriate for the intended period.
+Consult [`Report.pdf`](./Report.pdf) for the data sources, definitions, assumptions, and model interpretation. Any reuse should verify that the source data may be redistributed and that the assumptions remain appropriate for the intended period.
 
 ## License and reuse
 
